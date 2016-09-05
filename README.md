@@ -5,7 +5,7 @@ Poor man's health check. Intended to be put in your bashrc/zshrc/whatever.
 ## Install
 
 ```
-go get https://github.com/mcls/hcheck
+go get github.com/mcls/hcheck
 ```
 
 ## Usage
